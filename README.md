@@ -1,3 +1,17 @@
+clone down my repo and insert your private and work email in run_script.py
+You need Python3 and pip3 instaled
+then 
+
+ip3 install gitpython
+pip3 install pathlib
+python3 run_script.py
+and push up to your github
+
+
+
+
+
+
 **This is a mock repository.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
